@@ -9,7 +9,7 @@ An AI-powered application that helps users understand complex medical reports th
 and receive accurate, easy-to-understand explanations powered by AI.
 </p>
 
-<img src="assets/presentation.gif" alt="Project Demo" width="950" style="border-radius:12px;"/>
+<img src="my-project/src/assets/presentation.gif" alt="Project Demo" width="950" style="border-radius:12px;"/>
 
 <br><br>
 
