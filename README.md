@@ -36,7 +36,7 @@ The application uses **React**, **Tailwind CSS**, **FastAPI**, **LangChain**, an
 ##  Preview
 
 <p align="center">
-<img src="assets/home.png" width="950" style="border-radius:12px;" alt="Home"/>
+<img src="my-project/src/assets/home.png" width="950" style="border-radius:12px;" alt="Home"/>
 </p>
 
 ---
