@@ -1,4 +1,4 @@
-````html
+
 <div align="center" style="max-width:1000px;margin:auto;">
 
 <h1 style="margin-bottom:8px;">🩺 AI Powered Medical Assistant</h1>
@@ -112,5 +112,5 @@ If you found this project useful, consider giving it a **Star** on GitHub.
 ### Built with ❤️ using React, Tailwind CSS, FastAPI, LangChain & Pinecone
 
 </div>
-````
+
 
